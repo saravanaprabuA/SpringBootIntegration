@@ -1,0 +1,4 @@
+com\javasampleapproach\h2database\repository\CustomerRepository.class
+com\javasampleapproach\h2database\controller\WebController.class
+com\javasampleapproach\h2database\SpringBootH2IntegrationApplication.class
+com\javasampleapproach\h2database\model\Customer.class
