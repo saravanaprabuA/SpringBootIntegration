@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.javasampleapproach.h2database.SpringBootH2IntegrationApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.979 sec - in com.javasampleapproach.h2database.SpringBootH2IntegrationApplicationTests
